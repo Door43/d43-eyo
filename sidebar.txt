@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[eyo:home|Door43 (eyo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-eyo|d43-eyo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-eyo/archive/master.zip|d43-eyo.zip]]
+
+**Recent Changes**
+{{changes>ns = eyo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/eyo|Ethnologue data]]
+
